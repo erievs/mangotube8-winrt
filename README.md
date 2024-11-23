@@ -50,7 +50,7 @@ https://github.com/erievs/mangotube8/
 
 - Darkmode will be coming soon.
 
-- Bugs I know about that will be fixed next update, rewind/backwards has some audio issues (not super hard to fix I know why just gotta sync em up), some places video IDs don't save to storage, rarely on startup the recommended page doesn't load, not a bug but not no background audio support for now (It is hard to do for me), there is orientation issue where it doesn't fullscreen when you rotate will be fixed next update again, the MangoTube logo is offcentre opps.
+- Bugs I know about that will be fixed next update, rewind/backwards has some audio issues (not super hard to fix I know why just gotta sync em up), some places video IDs don't save to storage, rarely on startup the recommended page doesn't load, not a bug but not no background audio support for now (It is hard to do for me), there is orientation issue where it doesn't full-screen when you rotate will be fixed next update again, the MangoTube logo is offcentre oops.
 
 - Please report bugs in issues not ONLY on a discord server.
 
