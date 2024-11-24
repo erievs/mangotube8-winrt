@@ -66,7 +66,11 @@ https://github.com/erievs/mangotube8/
 
 - Will there be a real UWP version, maybe idk.
 
-- I don't have a discord server but I hang out and talk about MangoTube on multiple Windows Phone realated server some more than other. 
+- I don't have a discord server but I hang out and talk about MangoTube on multiple Windows Phone realated server some more than other.
+
+- If you live in Russia or Belarus you're probably screwed sorry not much I can do for you maybe. I'm not really going to be able to offer support to y'all because it's more than likely a geo blocking thing or something network related and I don't live there not much I can do. Try a VPN or Proxy I guess.
+
+- Please avoid saying "fix blank" network related thing, instead connect to visual studio and run/build the MangoTube8.1 project and give me the output. I am sadly not a network reader so I cannot really do much, if you can figure out a way to reproduce it reliably then tell me and I can do it myself.
 
 # Dependencies #
 
